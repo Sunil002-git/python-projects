@@ -1,0 +1,5 @@
+id,date,type,category,amount,note
+4,2026-01-05,income,rent,2000.0,
+1,2026-01-22,expense,Food,45.0,Breakfast
+2,2026-01-23,income,food,200.0,
+5,2026-01-23,income,parttime,1000.0,nothing
